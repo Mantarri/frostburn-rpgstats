@@ -1,4 +1,4 @@
-package net.fabricmc.example;
+package misteryman.frostburnrpgstats;
 
 import net.fabricmc.api.ModInitializer;
 
